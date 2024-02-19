@@ -2,14 +2,14 @@
 
 `PHP Debug`<br>
 `PHP Intelephense`<br>
-`PHP Intellisense`
-`PHP Server`
-`Mysql`
-`Laravel Extra intellisense`
-`Laravel Blade Snippets`
-`Laravel Snippets`
-`DotENV`
-`Laravel Artisan`
-`Laravel goto view`
-`Laravel goto controller`
+`PHP Intellisense` <br>
+`PHP Server`<br>
+`Mysql`<br>
+`Laravel Extra intellisense`<br>
+`Laravel Blade Snippets`<br>
+`Laravel Snippets`<br>
+`DotENV`<br>
+`Laravel Artisan`<br>
+`Laravel goto view`<br>
+`Laravel goto controller`<br>
 
